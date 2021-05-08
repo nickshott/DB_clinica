@@ -1,0 +1,320 @@
+1;Buprenorfina;tableta sublingual;0.2mg;10 tabletas;42;101
+2;Buprenorfina;solucion inyectable;0.30 mg/ml;6 ampolletas o frasco ampula 1 ml;109;101
+3;Buprenorfina;parche;20 mg;envase con 4 parches;105;101
+4;Buprenorfina;parche;30mg;envase con 4 parches;84;101
+5;Capsaicina;crema;0.035g;Envase con 40 g;139;101
+6;Clonixinato de lisina;solucion inyectable;100mg/2ml;5 ampolletas con 2 ml;28;101
+7;Dexmedetomidina;solucion inyectable;2ooug;1, 5 y 25 frascos ámpula;60;101
+8;Dextropropoxifeno;capsula o comprimido;65mg;20 cápsulas o comprimidos;40;101
+9;Etofenamato;solucion inyectable;1g;Ampolleta de 2 ml.;105;101
+10;Fentanilo;parche;4.2mg;5 parches;54;101
+11;Hidromorfona;tableta ;2mg;100 tabletas;30;101
+12;Ketorolaco trometamina;solucion inyectable;30mg;3 frascos ámpula ó 3 ampolletas 1 ml;135;101
+13;Morfina;solucion inyectable;2.5mg;5 ampolletas con 2.5 ml;80;101
+14;Morfina;solucion inyectable;50mg;Ampolleta con 2 ml;70;101
+15;Morfina;solucion inyectable;10mg;5 ampolletas;85;101
+16;Morfina;solucion inyectable;100mg;14, 20 ó 40 tabletas o cápsulas;49;101
+17;Morfina;tableta;60mg;14, 20 ó 40 tabletas o cápsulas;92;101
+18;Morfina;tableta;30mg;20 tabletas;36;101
+19;morfina;tableta;10mg;20 tabletas;29;101
+20;nalbulfina;solucion inyectable;20mg/ml;5 ampolletas;150;101
+21;oxicodona;tableta ;10mg;30 ó 100 tabletas;68;101
+22;oxicodona;tableta;100mg;30 ó 100 tabletas;49;101
+23;tramadol;solucion inyectable;100mg/2ml;5 ampolletas;126;101
+24;paracetamol;tableta;37.5mg/325.0mg;20 tabletas;98;101
+25;Amlodipino;tableta ;5 mg;10 ó 30 tabletas o cápsulas.;105;102
+26;Captopril;tableta;25 mg;30 tabletas;69;102
+27;Clortalidona;tableta;50 mg;20 tabletas;34;102
+28;2 Digoxina;tableta;0.25 mg;20 tabletas;137;102
+29;3 Digoxina;Elixir;0.05 mg/ml;20 tabletas;118;102
+30;Digoxina;solucion inyectable;0.5 mg/2 ml;Envase con 60 ml;85;102
+31;Enalapril ;capsula o tableta ;10 mg;6 ampolletas de 2 ml;143;102
+32;Epinefrina;solucion inyectable;1 mg ;30 cápsulas o tabletas;116;102
+33;Felodipino;tableta;5 mg;50 ampolletas de 1.0 ml;16;102
+34;Hidralazina;tableta;10mg;10 tabletas;67;102
+35;Hidralazina;solucion inyectable;10 mg/ ml;20 tabletas;144;102
+36;Hidralazina;solucion inyectable;100mg;5 ampolletas con 1.0 ml;77;102
+37;Isosorbida;tableta;5 mg ;5 ampolletas con 1.0 ml;31;102
+38;Isosorbida;tableta;10 mg;20 tabletas;130;102
+39;Metoprolol;tableta;100 mg;20 tabletas;128;102
+40;Nifedipino;capsula;10 mg;20 tabletas;41;102
+41;Nifedipino;comprimido;30 mg;20 tabletas;111;102
+42;Pentoxifilina;tableta;400 mg ;30 comprimidos;104;102
+43;Potasio sales de;tableta;465 mg;30 tabletas;102;102
+44;Propranolol;tableta;40 mg ;30 tabletas;52;102
+45;Propranolol;tableta;10 mg ;30 tabletas;87;102
+46;Trinitrato de glicerilo;capsula;0.8 mg;24 capsulas;86;102
+47;warfarina;tableta;5mg;25 tabletas;33;102
+48;Norepinefrina;solucion inyectable;4 mg/ 4 ml;50 ampolletas de 4ml;137;102
+49;Lidocaina;Solución inyectable;100 mg/ 5 ml;ampolleta 5ml;26;102
+50;Bromocriptina ;Tableta;2.5 mg ;14 tabletas;25;115
+51;Glibenclamida ;Tableta;5 mg ;50 tabletas;100;115
+52;Insulina humana acción intermedia;Suspensión inyectable;100 UI/ml;Un frasco ámpula con 5 ó 10 ml;16;115
+53;Insulina humana de acción;Solución inyectable ;100 UI/ml;Un frasco ámpula con 5 ó 10 ml;119;115
+54;Prednisona;Tableta;100 UI/ml;Un frasco ámpula con 5 ó 10 ml;27;115
+55;Prednisona;Tableta;5 mg ;20 tabletas;118;115
+56;Tolbutamida ;Tableta;50 mg;20 tabletas;103;115
+57;Acarbosa;Tableta;50mg;50 tabletas;31;115
+58;Ácido nicotínico;Tableta;500 mg;30 tabletas;36;115
+59;Agalsidasa alfa;Solución inyectable ;3.5 mg;50 tabletas;121;115
+60;Agalsidasa beta;Solución inyectable ;35 mg;Frasco ámpula con polvo liofilizado;23;115
+61;Alglucosidasa alfa;Solución inyectable ;50 mg ;Envase con frasco ámpula con 3.5 ml (1;100;115
+62;Atorvastatina;Tableta;20 mg;Frasco ámpula con polvo liofilizado;73;115
+63;Bezafibrato ;Tableta;200 mg;Frasco ámpula con polvo liofilizado;82;115
+64;Calcio;comprimido;500 mg;10 tabletas;122;115
+65;Calcitonina;Solución inyectable ;50 UI;30 tabletas;33;115
+66;Calcitriol ;capsula ;0.25 µg;12 comprimidos;105;115
+67;Ciprofibrato;Cápsula;100 mg;5, 6 ó 12 ampolletas o frascos ámpula;27;115
+68;Coriogonadotropina alfa ;Solución inyectable;250 µg / 0.5 ml;50 cápsulas;137;115
+69;Corticotropina;Solución inyectable;60 UI;30 cápsulas;78;115
+70;Corticotropina;Solución inyectable;40 UI;Frasco ámpula con liofilizado, frasco;72;115
+71;Deflazacort ;Tableta;6 mg;20 tabletas;146;115
+72;Deflazacort;Tableta;30 mg ;20 tabletas;136;115
+73;Deflazacort ;suspension oral;2.75 mg/m;Frasco con 13 ml de suspensión y gotero.;124;115
+74;Desmopresina;Tableta;178 µg;30 tabletas;122;115
+75;Desmopresina;Solución nasal ;89 µg/ ml;Nebulizador con 2.5 ml.;15;115
+76;Desmopresina;Solución inyectable;15 µg;5 ampolletas con 1 ml;109;115
+77;Dexametasona;Tableta;0.5 mg;30 tabletas;103;115
+78;Exenatida ;Solución inyectable;250 µg;Envase con pluma prellenada con 5;51;115
+79;Ezetimiba;Tableta;10 mg ;7, 10,14, 21, 28 ó 30 tabletas;55;115
+80;Fludrocortisona ;Comprimido;0.1 mg;100 comprimidos;18;115
+81;Albendazo;Tableta;200 mg;2 tabletas;130;103
+82;Albendazo;suspension oral;400 mg/20 ml;Envase con 20 ml;108;103
+83;Albendazo;tableta;200 mg;100 tabletas;147;103
+84;Amoxicilina;suspension oral;500 mg/ 5 ml ;Envase para 75 ml;56;103
+85;Amoxicilina;capsula;500 mg;12 ó 15 cápsula;51;103
+86;Amoxicilina - ácido clavulánico;suspensión inyectable;125 mg/31.25 mg/ 5 ml ;Envase con 60 m;28;103
+87;Amoxicilina - ácido clavulánico;tableta;500 mg/100 mg ;Envase con un fraso ámpula con 10 ml;76;103
+88;Amoxicilina - ácido clavulánico;tableta;500 mg/125 mg;12 ó 16 tabletas;75;103
+89;Ampicilina;tableta;500 mg;20 tabletas o cápsulas;16;103
+90;Ampicilina;suspension oral;250 mg/ 5 ml ;Envase para 60 ml;142;103
+91;Bencilpenicilina benzatínica;suspensión inyectable;Benzatínica 600 000 UI;Frasco ámpula y diluyente con 3 ml;32;103
+92;Bencilpenicilina procaínica;suspensión inyectable;2 400 000 UI ;Frasco ámpula con diluyente;42;103
+93;Bencilpenicilina procaínica -;suspensión inyectable;300 000 UI /100 000 UI;Frasco ámpula y diluyente con 2 ml;74;103
+94;Bencilpenicilina procaínica -;suspensión inyectable;600 000 UI/200 000 UI;Frasco ámpula y diluyente con 2 ml;110;103
+95;Benzatina bencilpenicilina;suspensión inyectable;600 000 UI;Frasco ámpula y diluyente con 2 ml;109;103
+96;Benzatina bencilpenicilina;suspensión inyectable;1 200 000 UI;Frasco ámpula y diluyente con 2 ml;108;103
+97;Benzatina bencilpenicilina;suspensión inyectable;2 400 000 UI;Frasco ámpula y diluyente con 2 ml;33;103
+98;Cefaclor;capsula;250 mg;15 cápsulas;126;103
+99;Cefaclor;suspension oral;250 mg/5 ml ;Envase para 150 ml ;26;103
+100;Cefalexina;tableta;500 mg;20 tabletas ó cápsulas;77;103
+101;Ciprofloxacino;capsula;250 mg;8 cápsulas ó tabletas;87;103
+102;Claritromicina;tableta;250 mg ;10 tabletas;73;103
+103;Clindamicina ;capsula;300 mg;16 cápsulas;50;103
+104;Cloranfenicol;tableta;500 mg ;20 cápsulas;61;103
+105;Cloranfenicol;suspension oral;31.25 mg/ ml;Envase con 65 m;75;103
+106;Cloroquina;capsula;150 mg;1000 tabletas;41;103
+107;Dapsona;tableta;150 mg;1000 tabletas;24;103
+108;Dicloxacilina;tableta;500 mg;20 cápsulas o comprimidos;125;103
+109;Dicloxacilina;tableta;250 mg/ 5 ml;Envase para 60 m;131;103
+110;Diyodohidroxiquinoleína;tableta;650 mg;60 tabletas;39;103
+111;Diyodohidroxiquinoleína;suspensión inyectable;210 mg/ 5 ml ;Envase con 120 m;63;103
+112;Doxiciclina;tableta;100 mg;10 cápsulas o tabletas;29;103
+113;Doxiciclina;tableta;50 mg ;28 cápsulas o tabletas;82;103
+114;Eritromicina;tableta;500 mg;20 cápsulas o tabletas;60;103
+115;Eritromicina;tableta;250 mg/ 5 ml;Envase para 100 ml;91;103
+116;Estreptomicina;suspension oral;1 g;Frasco ámpula y diluyente con 2 ml;42;103
+117;Aceite de ricino;Solución;nn;Envase con 70 ml;15;104
+118;Aceite mineral;Solución;nn;Envase con 265 ml;123;104
+119;Aluminio;Tableta;200 mg;50 tabletas;135;104
+120;Aluminio;Suspensión oral;350 mg/5 ml;Envase con 240 ml;93;104
+121;Aluminio – magnesio;Tableta masticable;Al 200 mg, Mg 200 ó 447.3 mg;50 tabletas;138;104
+122;Aluminio – magnesio;Suspensión oral;Al 3.7 mg, 4 g ó 8.9 g /100 ml;Envase con 240 ml;83;104
+123;Bismuto;Suspensión oral;1.750 g/ 100 ml;Envase con 240 ml;32;104
+124;Butilhioscina;Gragea;10 mg;10 grageas;120;104
+125;Butilhioscina;Solución inyectable; 20 mg/ ml ;3 Ampolletas con 1.0 ml;28;104
+126;Butilhioscina – metamizol;Gragea;10 mg/ 250 mg;36 grageas;53;104
+127;Butilhioscina – metamizol;Solución inyectable;20 mg/2.5 g/5 ml;5 ampolletas con 5 ml;116;104
+128;Cinitaprida;Comprimido;1 mg;25 comprimidos;61;104
+129;Cinitaprida;Granulado;1 mg;30 sobres;143;104
+130;Cinitaprida;Solución oral;20 mg/100 ml (1 mg/5 ml);Envase con 120 ml y cucharita dosificadora;63;104
+131;Cisaprida;Suspensión oral;1 mg/ ml;Envase con 60 ml;108;104
+132;Cisaprida;Tableta;5 mg;30 tabletas;146;104
+133;Cisaprida;Tableta;10 mg;30 tabletas;47;104
+134;Fosfato y citrato de sodio;Solución;12 g-10g/100 ml. ;Envase con 133 ml y aplicador;52;104
+135;Glicerol;Supositorio;2.632 g;6 supositorios;119;104
+136;Glicerol;Supositorio;1.380 g;20 supositorios;40;104
+137;Lidocaína - hidrocortisona;Ungüento;50 mg/2.5 mg/1 g;Envase con 20 g y aplicador;65;104
+138;Lidocaína - hidrocortisona;Supositorio;60 mg/5 mg;6 supositorios;37;104
+139;Loperamida;Comprimido, tableta o gragea;2 mg;12 comprimidos, tabletas o grageas;63;104
+140;Magnesio;Suspensión oral;425 mg/5 ml;Envase con 120 ml;63;104
+141;Metoclopramida;Solución inyectable;10 mg/2 ml;6 ampolletas con 2 ml;50;104
+142;Metoclopramida;Tableta;10 mg;20 tabletas;30;104
+143;Metoclopramida;Solución;4 mg/ml;Frasco gotero con 20 ml;18;104
+144;Plantago ovata - senósidos A y B;Granulado;54.2 g/300 mg/100 g;Envase con 100 g;47;104
+145;Estriol;Crema;100 mg/100 g;Envase con 15 g;94;105
+146;Estrógenos;conjugados Gragea;tableta 0.625 mg;42 grageas o tabletas;33;105
+147;Estrógenos;conjugados Gragea;tableta 0.625 mg;42 grageas o tabletas;21;105
+148;Estrógenos conjugados;Gragea o tableta;0.625 mg;42 grageas o tabletas;25;105
+149;Estrógenos conjugados;Gragea;1.250 mg;42 Grageas;148;105
+150;Estrógenos conjugados;Crema vaginal;0.625 mg/ g; Envase con 43 g y aplicador;55;105
+151;Metronidazol;Óvulo o tableta vagina;500 mg;10 óvulos o tabletas vaginales;18;105
+152;Nistatina;Óvulo o tableta vagina;100 000 UI;12 óvulos o tabletas vaginales;106;105
+153;Nitrofural;Óvulo ;6 mg;6 óvulos;17;105
+154; Ácido alendrónico;Tableta o comprimido;10 mg;30 tabletas o comprimidos;132;105
+155; Ácido alendrónico;Tableta o comprimido;70 mg;4 tabletas o comprimidos;63;105
+156;Ácido risedrónico;Gragea o tableta;5.0 mg;28 grageas o tabletas;142;105
+157;Ácido risedrónico;Gragea o tableta;35 mg;4 grageas o tabletas;121;105
+158;Atosibán;Solución Inyectable;6.75 mg / 0.9 ml;Envase con 0.9 ml;40;105
+159;Atosibán;Solución Inyectable;37.5 mg / 5.0 ml;Envase con 5.0 ml;47;105
+160;Cabergolina;Tableta; 0.5 mg;tabletas;40;105
+161;Cabergolina;Solución Inyectable; 100 µg;Ampolleta;120;105
+162;Ciproterona-Etinilestradiol;Gragea;2mg / 0.035 mg;21 grageas;97;105
+163;Clomifeno;Tableta;50 mg;10 tabletas;38;105
+164;Dinoprostona;Gel;0.5 mg;Jeringa y cánula;148;105
+165;Dinoprostona;Ovulo;10 mg;1 ó 5 óvulos;56;105
+166;Acenocumarol;Tableta;4 mg;20 ó 30 tabletas;132;106
+167;Fitomenadiona;Solución o Emulsión inyectable;10 mg;3 ó 5 ampolletas con 1.0 ml;20;106
+168;Fitomenadiona;Solución o Emulsión inyectable;2 mg;3 ó 5 ampolletas con 0.2 ml;63;106
+169;Fumarato ferroso;Tableta;200 mg.;50 tabletas;61;106
+170;Fumarato ferroso;Suspensión oral;29 mg/ml;Envase con 120 ml;51;106
+171;Menadiona;Tableta;2 mg;20 tabletas;139;106
+172;Sulfato ferroso;Tableta;200 mg;30 tabletas;49;106
+173;Sulfato ferroso;Solución;125 mg/ ml;Envase gotero con 15 ml;90;106
+174;Abciximab;Solución inyectable;10 mg/5ml;Frasco ámpula;92;106
+175;Ácido aminocaproico;Solución inyectable;5 g/ 20 ml;Frasco ámpula con 20 ml;66;106
+176;Antitrombina III;Solución inyectable;500 UI/10 ml;Frasco ámpula con liofilizado y frasco ámpula con 10 ml de diluyente.;100;106
+177;Antitrombina III;Solución inyectable;1000 UI/20 ml;Frasco ámpula con liofilizado y frasco ámpula con 20 ml de diluyente.;38;106
+178;Aprotinina;Solución inyectable;10000 UIK/ml;Frasco ámpula con 50 ml;74;106
+179;Complejo coagulante anti-Inhibidor del factor VIII;Solución inyectable;500 U FEIBA/20 ml;Frasco ámpula con liofilizado y frasco con 20 ml de diluyente.;85;106
+180;Complejo coagulante anti-Inhibidor del factor VIII;Solución inyectable;1000 U FEIBA/20 ml;Frasco ámpula con liofilizado y frasco con 20 ml de diluyente.;103;106
+181;Concentrado de proteínas humanas coagulables;Solución;80 a 120 mg;Dos frascos ámpula (I y II) con 2 ml cada uno, dos jeringas previamente ensambladas y tubo de aire con filtro de 0.2 µm.;56;106
+182;Clortalidona;Tableta;50 mg;20 tabletas;74;107
+183;Espironolactona;Tableta;25 mg;20 ó 30 tabletas;106;107
+184;Espironolactona;Tableta;100 mg;30 tabletas;107;107
+185;Fenazopiridina;Tableta;100 mg;20 tabletas;97;107
+186;Furosemida;Solución oral;10 mg/ ml;Frasco gotero con 60 ml;132;107
+187;Furosemida;Tableta;40 mg;20 tabletas;49;107
+188;Furosemida;Solución inyectable;20 mg/ 2 ml;5 ampolletas con 2 ml;26;107
+189;Hidroclorotiazida;Tableta;25 mg;20 tabletas;76;107
+190;Prednisona;Tableta;5 mg;20 tabletas;45;107
+191;Ácido micofenólico;Gragea con capa entérica;180 mg;120 grageas;97;107
+192;Ácido micofenólico;Gragea con capa entérica;360 mg;120 grageas;147;107
+193;Ácido micofenólico;Cápsula;250 mg;100 cápsulas;21;107
+194;Ácido micofenólico;Comprimido;500 mg;50 comprimidos;33;107
+195;Acetazolamida;Tableta;250 mg;20 tabletas;146;107
+196;Acetazolamida;Solución inyectable;500 mg/ 5ml;Frasco ámpula con 5 ml;16;107
+197;Ácido valproico;capsula;250 mg;60 cápsulas;117;109
+198;Carbamazepina;tableta o comprimido;200 mg;20 tabletas;28;109
+199;Carbamazepina;tableta o comprimido;400 mg;20 tabletas;36;109
+200;Carbamazepina;suspensión oral;100 mg/ 5 ml;Envase con 120 ml y dosificador de 5 ml;97;109
+201;Cloral ;jarabe;500 mg./ 5 ml;Envase con 20 ml;88;109
+202;Clorodiazepóxido;solución inyectable;100 mg;Ampolleta;18;109
+203;Diazepam;tableta o comprimido;10 mg;20 tabletas;49;109
+204;Diazepam;suspensión oral;2 mg/ 5 ml;Envase con 60 ml;149;109
+205;Diazepam;solucion inyectable;10 mg/ 2 ml;50 ampolletas con 2 ml;87;109
+206;Dihidroergotamina/Paracetamol/;tableta;450 mg;20 tabletas;66;109
+207;Ergotamina y cafeína;comprimido; 100 mg;20 comprimidos, grageas o tabletas;142;109
+208;Fenitoína;tableta o comprimido;30 mg;50 tabletas o cápsulas;77;109
+209;Fenitoína;tableta o comprimido;30 mg;50 tabletas;114;109
+210;Fenitoína;suspensión oral;37.5 mg/ 5 ml;Envase con 120 ml y dosificador de 5 ml;31;109
+211;Fenitoína;solucion inyectable;250 mg/5 ml ;Una ampolleta con 5 ml;90;109
+212;Fenobarbital;elixir;20 mg/ 5 ml;Envase con 60 ml y dosificador de 5 ml;108;109
+213;Fenobarbital;tableta o comprimido;100 mg;20 tabletas;88;109
+214;Fenobarbital;tableta o comprimido;15 mg;10 tabletas;86;109
+215;Primidona ;suspensión oral;250 mg/ 5 ml;Envase con 120 ml y dosificador de 5 ml;63;109
+216;Primidona;tableta o comprimido;250 mg;50 tabletas;19;109
+217;Valproato de magnesio;tableta o comprimido;185.6 mg;40 tabletas;132;109
+218;Valproato de magnesio;tableta o comprimido;600 mg;30 tabletas;78;109
+219;Valproato de magnesio;solucion inyectable;186 mg/ ml;Envase con 40 ml;104;109
+220;Valproato de magnesio;comprimido con capa;250 mg ;30 comprimidos;70;109
+221;Acetilcisteína;Solución al 20%;400 mg/2 ml(200 mg/ml);5 ampolletas con 2 ml;112;108
+222;Ambroxol;Comprimido;30 mg;20 comprimidos;112;108
+223;Ambroxol;Solución;300 mg/ 100 ml;Envase con 120 ml;149;108
+224;Aminofilina;Solución inyectable;250 mg/ 10 ml;5 ampolletas de 10 ml;111;108
+225;Beclometasona dipropionato;Suspensión en aerosol;10 mg/inhalador;Envase con inhalador con 200 dosis de 50 µg;97;108
+226;Beclometasona dipropionato;Suspensión en aerosol;50 mg/inhalador;Inhalador con 200 dosis de 250 µg;108;108
+227;Benzonatato;Perla o cápsula;100 mg;20 perlas o cápsulas;135;108
+228;Benzonatato;Supositorio;50 mg;6 supositorios;68;108
+229;Bromhexina;Solución;4 mg/ 5 ml;Frasco 100 ml;123;108
+230;Bromhexina;Comprimido;8 mg.;20 Comprimidos;135;108
+231;Dextrometorfano;Jarabe;200 mg;Envase con 120 ml y dosificador;56;108
+232;Dextrometorfano;Jarabe;300 mg;Envase con 60 ml y dosificador;24;108
+233;Salbutamol;Suspensión en aerosol;20 mg;Envase con inhalador con 200 dosis de 100 µg;25;108
+234;Salbutamol;Jarabe;2 mg/ 5 ml;Envase con 60 ml;96;108
+235;Teofilina;Elíxir;533 mg/100 ml;Envase con 450 ml;37;108
+236;Teofilina;Comprimido ó tableta o cápsula de liberación prolongada;100 mg.;20 Comprimidos ó tabletas ó cápsulas de liberación prolongada;25;108
+237;Terbutalina;Tableta;5 mg;20 tabletas;21;108
+238;Alfa dornasa;Solución para inhalación;2.5 mg;6 ampolleta con 2.5 ml;122;108
+239;Beractant;Suspensión inyectable;25 mg/8 ml;Envase con frasco ámpula de 8 ml y cánula endotraqueal.;121;108
+240;Budesonida;Suspensión para nebulizar;0.250 mg;5 ó 20 envases con 2 ml;28;108
+241;Ácido folínico;Solución inyectable;3 mg/ml;6 ampolletas o frascos ámpula con 1 ml;103;110
+242;Ácido folínico;Solución inyectable;15 mg/5 ml;5 ampolletas con 5 ml;138;110
+243;Ácido folínico;Solución inyectable;50 mg/4 ml;Frasco ámpula o ampolleta con 4 ml;87;110
+244;Ácido folínico;Tableta;15 mg;12 tabletas;111;110
+245;Ácido zoledrónico;Solución inyectable;15 mg;Frasco ámpula;66;110
+246;Alemtuzumab;Solución inyectable;4.0 mg/5 ml;3 frascos ámpula con 1 ml cada uno;30;110
+247;Amifostina;Solución inyectable;30 mg;Frasco ámpula;142;110
+248;Anastrozol;Tableta;500 mg;28 tabletas;107;110
+249;Aprepitant;Cápsula;1 mg;Envase con una cápsula de 125 mg y 2 cápsulas de 80 mg;113;110
+250;BCG Inmunoterapeutico;Suspensión inyectable;125 mg y 80 mg;Frasco ámpula con liofilizado y frasco ámpula de 3 ml de diluyente.;135;110
+251;Bevacizumab;Solución inyectable;81.00 mg;Frasco ámpula con 4 ml;136;110
+252;Bevacizumab;Solución inyectable;100 mg;Frasco ámpula con 16 ml;102;110
+253;Bicalutamida;Tableta;400 mg;14 y 28 tabletas;94;110
+254;Bleomicina;Solución inyectable;50 mg;Ampolleta o frasco ámpula y diluyente con 5 ml;19;110
+255;Bortezomib;Solución inyectable;15 UI/5 ml;Envase con un frasco ámpula;108;110
+256;Desogestrel;Tableta;0.075 mg;Envase con 28 tabletas;30;111
+257;Desogestrel y etinilestradiol;Tableta;Desogestrel 0.15 mg Etinilestradiol 0.03 mg;21 tabletas;58;111
+258;Desogestrel y etinilestradiol;Tableta;Desogestrel 0.15 mg etinilestradiol 0.03 mg;28 tabletas (21 con hormonales y 7 sin hormonales);107;111
+259;Levonorgestrel;Gragea;0.03 mg;35 Grageas;24;111
+260;Levonorgestrel;Comprimido o tableta;0.750 mg;2 comprimidos o tabletas;49;111
+261;Levonorgestrel y etinilestradiol;Gragea;Levonorgestrel 0.15 mg Etinilestradiol 0.03 mg;21 grageas;93;111
+262;Levonorgestrel y etinilestradiol;Gragea;Levonorgestrel 0.15 mg etinilestradiol 0.03 mg;28 Grageas (21 con hormonales y 7 sin hormonales);133;111
+263;Medroxiprogesterona y cipionato de estradiol;Suspensión inyectable;Medroxiprogesterona 25 mg/ Estradiol 5 mg/ 0.5 ml;Ampolleta o jeringa prellenada con 0.5 ml;24;111
+264;Norelgestromina y etinilestradiol;Parche;Norelgestromina 6 mg Etinilestradiol 0.60 mg;3 parches;62;111
+265;Norelgestromina y etinilestradiol;Tableta o gragea;Norestisterona 0.400 mg Etinilestradiol 0.035 mg;28 tabletas o grageas (21 con hormonales y 7 sin hormonales);19;111
+266;Cetroelix;Solución inyectable;0.25 mg/ml;Frasco ámpula y jeringa de 1 ml con diluyente;56;111
+267;Cetroelix;Solución inyectable;3.0 mg/3 ml;Frasco ámpula y jeringa de 3 ml con diluyente;37;111
+268;Etonogestrel;Implante;Etonogestrel 68.0 mg;Implante y aplicador.;148;111
+269;Folitropina beta;Solución inyectable;50 UI;Frasco ámpula y ampolleta con diluyente.;145;111
+270;Folitropina beta;Solución inyectable;100 UI;Frasco ámpula y diluyente;88;111
+271;Alprazolam;Tableta;2 mg;30 tabletas;26;112
+272;Alprazolam;Tableta;0.25 mg;30 tabletas;52;112
+273;Amitriptilina;Tableta;25 mg;20 tabletas;44;112
+274;Bromazepam;Comprimido;3 mg;30 comprimidos;96;112
+275;Citalopram;Tableta;20 mg;14 ó 28 tabletas;30;112
+276;Diazepam;Tableta;10 mg;20 tabletas;44;112
+277;Diazepam;Solución inyectable;10 mg/ 2 ml;50 ampolletas con 2 ml;40;112
+278;Escitalopram;Tableta;10 mg;14 o 28 tabletas;92;112
+279;Flunitrazepam;Comprimido;1 mg;30 comprimidos;62;112
+280;Fluoxetina;Cápsula o tableta;20 mg;14 ó 28 cápsulas o tabletas;127;112
+281;Imipramina;Gragea o tableta;25 mg;20 tabletas o grageas;107;112
+282;Lorazepam;Tableta;1 mg;40 tabletas;19;112
+283;Paroxetina;Tableta;20 mg;10 tabletas;83;112
+284;Triazolam;Tableta;0.125 mg;20 tabletas;34;112
+285;Anfebutamona;Tableta o gragea de liberación prolongada;150 mg;15 ó 30 tabletas o grageas de liberación prolongada;24;112
+286;Aripiprazol;Tableta;15 mg;20 tabletas;26;112
+287;Aripiprazol;Tableta;20 mg;10 tabletas;90;112
+288;Aripiprazol;Tableta;30 mg;10 tabletas;31;112
+289;Clozapina;Comprimido;100 mg;30 ó 50 comprimidos;82;112
+290;Alopurinol;Tableta;100 mg;20 ó 50 tabletas;45;113
+291;Alopurinol;Tableta;300 mg;20 tabletas;72;113
+292;Colchicina;Tableta;1 mg;30 tabletas;113;113
+293;Diclofenaco;Cápsula o gragea de liberación prolongada;100 mg;20 cápsulas o grageas;119;113
+294;Diclofenaco;Solución inyectable;75 mg/ 3 ml;2 ampolletas con 3 ml;136;113
+295;Ketoprofeno;Cápsula;100 mg;15 cápsulas;74;113
+296;Meloxicam;Suspensión oral;0.150 g/100 ml;Envase de 40 ml y pipeta dosificadora de 5 ml;56;113
+297;Meloxicam;Tableta;15 mg;10 tabletas;40;113
+298;Metocarbamol;Tableta;400 mg;30 tabletas;54;113
+299;Naproxeno;Tableta;250 mg;30 tabletas;108;113
+300;Naproxeno;Suspensión oral;125 mg/ 5 ml;Envase con 100 ml;66;113
+301;Piroxicam;Cápsula o tableta;20 mg;20 cápsulas o tabletas;133;113
+302;Prednisona;Tableta;5 mg;20 tabletas;120;113
+303;Sulindaco;Tableta o gragea;200 mg;20 tabletas o grageas;61;113
+304;Acemetacina;Cápsula;60 mg;14 ó 28 cápsulas;104;113
+305;Acemetacina;Cápsula de liberación prolongada;90 mg;14 ó 28 cápsulas de liberación prolongada;148;113
+306;Agua inyectable;Solución inyectable;5 ml;100 ampolletas con 5 ml;64;114
+307;Agua inyectable;Solución inyectable;10 ml;100 ampolletas con 10 ml;140;114
+308;Cloruro de sodio;Solución inyectable al 0.9 %;0.9 g/100 ml;Envase con 250 ml;109;114
+309;Cloruro de sodio;Solución inyectable al 0.9 %;0.9 g/100 ml;Envase con 500 ml;123;114
+310;Cloruro de sodio y glucosa;Solución inyectable;0.9 g/100 ml;Envase con 250 ml;116;114
+311;Cloruro de sodio y glucosa;Solución inyectable;0.9 g/ 5 g/ 100 ml;Envase con 500 ml;46;114
+312;Electrolitos orales (Fórmula de osmolaridad baja);Polvo;Glucosa anhidra o glucosa 13.5 g Cloruro de potasio 1.5 g Cloruro de sodio 2.6 g Citrato trisódico dihidratado 2.9 g;Envase con 20.5 g;40;114
+313;Electrolitos orales;Polvo para solución;Glucosa 20 g, KCl 1.5 g, NaCl 3.5 g, citrato trisódico 2.9 g.;Envase con 27.9 g;60;114
+314;Glucosa;Solución inyectable al 5 %;5 g/100 ml;Envase con 250 ml;37;114
+315;Glucosa;Solución inyectable al 5 %;5 g/100 ml;Envase con 1000 ml;21;114
+316;Glucosa;Solución inyectable al 50 %;50 g/ 100 ml;Envase con 50 ml;99;114
+317;Glucosa;Solución inyectable al 5 %;5 g/100 ml;Envase con 500 ml;72;114
+318;Solución Hartmann;Solución inyectable;Cloruro de sodio 0.600 g Cloruro de potasio 0.030 g Cloruro de calcio dihidratado 0.020 g Lactato de sodio0.310 g;Envase con 250 ml.;109;114
+319;Solución Hartmann;Solución inyectable;Cloruro de sodio 0.600 g Cloruro de potasio 0.030 g Cloruro de calcio dihidratado 0.020 g Lactato de sodio0.310 g;Envase con 500 ml.;101;114
+320;Solución Hartmann;Solución inyectable;Cloruro de sodio 0.600 g Cloruro de potasio 0.030 g Cloruro de calcio dihidratado 0.020 g Lactato de sodio0.310 g;Envase con 1000 ml.;89;114
